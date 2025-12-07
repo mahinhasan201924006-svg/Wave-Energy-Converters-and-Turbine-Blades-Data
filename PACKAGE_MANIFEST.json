@@ -1,0 +1,18 @@
+{
+  "package": "wec-ai-native-complete-package",
+  "version": "1.0.0",
+  "total_files": 34,
+  "size_kb": 13.3173828125,
+  "contents": {
+    "root_files": 6,
+    "model_files": 7,
+    "script_files": 4,
+    "config_files": 2,
+    "doc_files": 6,
+    "extra_files": 9
+  },
+  "instructions": {
+    "extract": "unzip wec-ai-native-complete-package.zip",
+    "upload": "cd wec-ai-native && git init && git add . && git commit -m '...' && git push"
+  }
+}
